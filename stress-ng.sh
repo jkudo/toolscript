@@ -1,3 +1,4 @@
+#!/bin/bash
 #stress count
 stcon=3
 
